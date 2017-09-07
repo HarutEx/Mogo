@@ -41,6 +41,14 @@ body {
     font-style: initial;
 }
 
+.carousel-control span {
+    position: absolute;
+    top: 50%;
+}
+.slide{
+    
+}
+
 .btn-default{
     background-color: transparent;
     color: white;
